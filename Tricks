@@ -1,0 +1,1 @@
+1. When the Rstudio doesn't shows all observation we need to change it's limit : option(max.print=10e6)
