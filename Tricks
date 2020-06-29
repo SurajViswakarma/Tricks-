@@ -2,3 +2,5 @@
 2. Delete Environment : rm(list=ls())
 3. delete all graphics : graphics.off()
 4. Clear R data : ctrl + L |  cat('/014')
+5. Open a link : browseUrl('Demourl.com)
+6. Download File : Download.file('File path', 'File name with extension')
