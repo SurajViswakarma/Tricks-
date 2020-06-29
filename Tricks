@@ -4,3 +4,4 @@
 4. Clear R data : ctrl + L |  cat('/014')
 5. Open a link : browseUrl('Demourl.com)
 6. Download File : Download.file('File path', 'File name with extension')
+7. List all function of package : ls("Package:Package_name")
